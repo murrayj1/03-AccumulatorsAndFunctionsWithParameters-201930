@@ -33,7 +33,7 @@ def main():
     # -------------------------------------------------------------------------
 
     m4t_tester.main()
-
+#
 
 def run_test_sum_of_digits():
     """ Tests the  sum_of_digits   function. """
